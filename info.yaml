@@ -3,8 +3,8 @@ project:
   wokwi_id:     446216877404932097       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "AAA"      # Project title
   author:       "AAA"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  discord:      "cdcdc"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "cdcdcd"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -26,13 +26,13 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "a1"
-  uo[1]: "a2"
-  uo[2]: "a3"
-  uo[3]: "a4"
-  uo[4]: "a5"
-  uo[5]: "a6"
-  uo[6]: "a7"
+  uo[0]: "b1"
+  uo[1]: "b2"
+  uo[2]: "b3"
+  uo[3]: "b4"
+  uo[4]: "b5"
+  uo[5]: "b6"
+  uo[6]: "b7"
   uo[7]: ""
 
   # Bidirectional pins
